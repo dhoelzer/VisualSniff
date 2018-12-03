@@ -4,7 +4,7 @@ A reimplementation of the EtherApe style display for OS X.  Note that this is no
 This code is released under the GPL 3.0
 
 
-  VisualSniff, a reimplementation of the EtherApe style display for OS X.
+    VisualSniff, a reimplementation of the EtherApe style display for OS X.
     Copyright (C) 2011  David Hoelzer
 
     This program is free software: you can redistribute it and/or modify
